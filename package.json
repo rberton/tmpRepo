@@ -1,0 +1,8 @@
+{
+  "name": "tmpRepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rberton/tmpRepo.git",
+  "author": "rberton <romain.berton@gmail.com>",
+  "license": "MIT"
+}
